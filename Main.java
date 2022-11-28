@@ -11,13 +11,7 @@ class Main {
         }
         traverseHashMap();
     }
-    /*
-      do{
-        if(1==1){break}
-        if(1==2){break}
-        if(1==3){break}
-      }while(false)
-    */
+ 
     static short generateIndexHashArray(String name){
         int index = 0;
         int sum_name = 0;
